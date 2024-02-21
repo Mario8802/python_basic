@@ -3,7 +3,7 @@ number = int(input())
 flag = 0
 if number > 1:
     for k in range(2,int(sqrt(number + 1))):
-        if number % k ==0:
+        if number % k == 0:
             flag = 1
             break
         if flag == 0:
