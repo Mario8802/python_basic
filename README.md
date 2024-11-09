@@ -1,4 +1,4 @@
-# Python Basic Projects
+# Python Basic Projects 
 
 Welcome to my Python Basic Projects repository! 🚀  
 This repository contains examples, exercises, and small projects created during my journey of learning Python programming. It's a place to practice, experiment, and improve coding skills.  
